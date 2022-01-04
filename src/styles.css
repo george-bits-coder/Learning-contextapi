@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#navbar {
+  height: 15%;
+  width: 90%;
+  background-color: aqua;
+}
+
+button {
+  cursor: pointer;
+}
